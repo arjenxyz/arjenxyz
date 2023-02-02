@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **italyan.xyz@gmail.com**
 
-- ⚡ Fun fact **I'm Funny** :)
+- ⚡ it's true **i'm funny** :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
