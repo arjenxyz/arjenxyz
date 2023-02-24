@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **italyan.xyz@gmail.com**
 
-- ⚡ it's true **i'm funny** :)
+- ⚡ My portfolio<a href="https://arjenxyz.vercel.app">arjenxyz.vercel.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
