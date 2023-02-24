@@ -8,9 +8,9 @@
 
 - 🔭Currently **trying to improve myself in Python**
 
-- 📫 How to reach me **italyan.xyz@gmail.com**
+- 📫 How to reach me **arjenxyz.vercel.appz@gmail.com**
 
-- ⚡ <a href="https://arjenxyz.vercel.app">Website</a>
+- ⚡ My Portfolio <a href="https://arjenxyz.vercel.app">arjenxyz.vercel.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
