@@ -11,10 +11,10 @@
 
 
 - 📫 How to reach me 
-- **arjenxyz.vercel.app@gmail.com**
+**arjenxyz.vercel.app@gmail.com**
 
 - ⚡ My portfolio 
-- <a href="https://arjenxyz.vercel.app">arjenxyz.vercel.app</a>
+<a href="https://arjenxyz.vercel.app">arjenxyz.vercel.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
