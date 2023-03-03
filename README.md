@@ -5,9 +5,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjenxyz&label=Profile%20views&color=0e75b6&style=flat" alt="arjenxyz" /> </p>
-
-- 🔭Currently 
-- **trying to improve myself in Python**
+_________________________________________
+- 🔭Currently                           
+- **trying to improve myself in Python** 
+_________________________________________
 
 - 📫 How to reach me 
 - **arjenxyz.vercel.app@gmail.com**
