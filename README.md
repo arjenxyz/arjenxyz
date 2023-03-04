@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arjen</h1>
 <h3 align="center">I am a passionate developer in Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1052258751681400902/1081616029467287662/bb7f1d36a1a2f179a13b1ddcd67091e3.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjenxyz&label=Profile%20views&color=0e75b6&style=flat" alt="arjenxyz" /> </p>
