@@ -54,7 +54,6 @@
   </a>
 </div>
 
-###
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arjen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arjen" /></a></p><br><br>
-###
+
