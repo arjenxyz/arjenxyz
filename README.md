@@ -10,15 +10,15 @@
 
 
 - 📫 How to reach me 
-**arjenxyz.vercel.app@gmail.com**
+**arjendev2504@gmail.com**
 
 - ⚡ My portfolio 
-<a href="https://arjenxyz.vercel.app">arjenxyz.vercel.app</a>
+<a href="https://arjendev.vercel.app">arjenxyz.vercel.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arjenxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://instagram.com/roi.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://instagram.com/arjenxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/979781952343277568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
 
