@@ -1,24 +1,61 @@
+<div align="center">
+</div>
 
-<h1 align="center">Hi 👋, I'm Arjen</h1>
-<h3 align="center">I am a passionate developer in Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1052258751681400902/1081616587817238538/cdb8bfebe9690f6add5c807634176d9c.gif">
+###
 
+<h1 align="center">ARJEN</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjenxyz&label=Profile%20views&color=0e75b6&style=flat" alt="arjenxyz" /> </p>
+###
 
-- 🔭Currently **trying to improve myself in Python** 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/68/9e/8f/689e8f9464d6c07cde90bae1f47ecfe1.jpg"  />
+</div>
 
+###
 
-- 📫 How to reach me 
-**arjendev2504@gmail.com**
+<p align="center">"I am better than everyone else in my mind."</p>
 
-- ⚡ My portfolio 
-<a href="https://arjendev.vercel.app">arjenxyz.vercel.app</a>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arjenxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://instagram.com/arjenxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/979781952343277568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishav_chanda" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.instagram.com/arjenxyz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/1163500308270436442" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="arjendev2504@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/arjenxyz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/arjenxyz/arjenxyz/output/snake.svg" alt="Snake animation" />
+
+###
