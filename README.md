@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arjenxyz/arjenxyz/main/snake.yml" alt="Snake animation" />
+
 
 ###
