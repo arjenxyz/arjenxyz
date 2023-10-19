@@ -17,6 +17,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oksg2cahdgbt3diahcnekjzwv4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=24ff3d&bar_color_cover=true" />
+</div>  
+
 <br clear="both">
 
 <div align="center">
@@ -53,9 +57,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arjen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arjen" /></a></p>
 </div>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31oksg2cahdgbt3diahcnekjzwv4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=24ff3d&bar_color_cover=true" /></div>  
 
