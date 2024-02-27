@@ -1,5 +1,5 @@
-## ArjenDev
-- Follow the 'code of conduct' in my projects.
+## ArjenDev - Follow the 'code of conduct' in my projects.
+
 ![Logo](https://cdn.discordapp.com/attachments/1190759903376179235/1212141490680242227/Thorfinn_-_Vinland_Saga.gif?ex=65f0c1bb&is=65de4cbb&hm=5ab579ea04e87ab050769daebdc0260c39991d519d6be6b32088227968ed05d5&)
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
